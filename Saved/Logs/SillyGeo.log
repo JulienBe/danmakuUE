@@ -290,3 +290,322 @@ LogInit: Object subsystem initialized
 [2017.09.01-04.41.04:259][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
 [2017.09.01-04.41.04:263][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2017.09.01-04.41.04:488][  0]LogRenderer: Reallocating scene render targets to support 1208x680 NumSamples 1 (Frame:2).
+[2017.09.01-04.41.10:944][406]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 111 classes and 0 folders.
+[2017.09.01-04.41.11:001][406]LogBlueprintSupport:Warning: Editor config [EditoronlyBP] settings are DEPRECATED. You're not explicitly setting any, but they've been defaulting to off. If you are relying on this functionality, then please fix it up so your Blueprints don't break in a future release.
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: libcurl info message cache 1 (Closing connection 1)
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.09.01-04.45.21:187][240]LogHttp:Warning: 000002BF1A6D5480: libcurl info message cache 4 (Closing connection 2)
+[2017.09.01-04.45.35:858][591]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.45.49:729][200]LogRenderer: Reallocating scene render targets to support 1324x840 NumSamples 1 (Frame:413).
+[2017.09.01-04.47.08:683][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DanPlayer" FILE="F:/Dropbox/Unreal Projects/danmaku/Content/Blueprints/BP_DanPlayer.uasset" SILENT=true
+[2017.09.01-04.47.08:740][565]LogSavePackage: Save=49.67ms
+[2017.09.01-04.47.08:740][565]LogSavePackage: Moving 'F:/Dropbox/Unreal Projects/danmaku/Saved/BP_DanPlayerAD612D2B473004867E8541B369F7433D.tmp' to 'F:/Dropbox/Unreal Projects/danmaku/Content/Blueprints/BP_DanPlayer.uasset'
+[2017.09.01-04.47.08:743][565]LogSavePackage:Display: Finished SavePackage F:/Dropbox/Unreal Projects/danmaku/Content/Blueprints/BP_DanPlayer.uasset
+[2017.09.01-04.47.10:459][771]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.47.13:529][120]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.47.13:546][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.47.13:547][120]PIE: New page: PIE session: Main (Aug 31, 2017, 2:47:13 PM)
+[2017.09.01-04.47.13:547][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.47.13:549][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001130s)
+[2017.09.01-04.47.13:549][120]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.47.13:549][120]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.09.01-04.47.13:549][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002263s)
+[2017.09.01-04.47.13:568][120]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.47.13:574][120]LogInit: FAudioDevice initialized.
+[2017.09.01-04.47.13:636][120]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.47.13:638][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.47.13
+[2017.09.01-04.47.13:638][120]LogWorld: Bringing up level for play took: 0.001070
+[2017.09.01-04.47.13:676][120]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.09.01-04.47.13:679][120]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.771
+[2017.09.01-04.47.59:557][173]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.47.59:569][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.47.59:569][173]PIE: New page: PIE session: Main (Aug 31, 2017, 2:47:59 PM)
+[2017.09.01-04.47.59:569][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.47.59:570][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2017.09.01-04.47.59:571][173]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.47.59:571][173]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2017.09.01-04.47.59:571][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001547s)
+[2017.09.01-04.47.59:587][173]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.47.59:591][173]LogInit: FAudioDevice initialized.
+[2017.09.01-04.47.59:633][173]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.47.59:635][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.47.59
+[2017.09.01-04.47.59:635][173]LogWorld: Bringing up level for play took: 0.000574
+[2017.09.01-04.47.59:636][173]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.814
+[2017.09.01-04.48.17:354][276]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.48.19:365][498]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.48.19:376][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.48.19:377][498]PIE: New page: PIE session: Main (Aug 31, 2017, 2:48:19 PM)
+[2017.09.01-04.48.19:377][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.48.19:377][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000685s)
+[2017.09.01-04.48.19:378][498]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.48.19:378][498]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.09.01-04.48.19:378][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001419s)
+[2017.09.01-04.48.19:393][498]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.48.19:398][498]LogInit: FAudioDevice initialized.
+[2017.09.01-04.48.19:428][498]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.48.19:430][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.48.19
+[2017.09.01-04.48.19:430][498]LogWorld: Bringing up level for play took: 0.000786
+[2017.09.01-04.48.19:431][498]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.981
+[2017.09.01-04.48.51:482][327]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.48.57:176][999]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.48.57:188][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.48.57:188][999]PIE: New page: PIE session: Main (Aug 31, 2017, 2:48:57 PM)
+[2017.09.01-04.48.57:188][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.48.57:189][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000664s)
+[2017.09.01-04.48.57:189][999]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.48.57:189][999]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2017.09.01-04.48.57:189][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001229s)
+[2017.09.01-04.48.57:204][999]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.48.57:209][999]LogInit: FAudioDevice initialized.
+[2017.09.01-04.48.57:237][999]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.48.57:238][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.48.57
+[2017.09.01-04.48.57:238][999]LogWorld: Bringing up level for play took: 0.000543
+[2017.09.01-04.48.57:239][999]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.788
+[2017.09.01-04.50.16:082][393]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.50.16:094][393]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.50.16:094][393]PIE: New page: PIE session: Main (Aug 31, 2017, 2:50:16 PM)
+[2017.09.01-04.50.16:094][393]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.50.16:095][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000687s)
+[2017.09.01-04.50.16:096][393]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.50.16:096][393]LogPlayLevel: PIE: World Init took: (0.000406s)
+[2017.09.01-04.50.16:096][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001235s)
+[2017.09.01-04.50.16:111][393]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.50.16:116][393]LogInit: FAudioDevice initialized.
+[2017.09.01-04.50.16:142][393]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.50.16:144][393]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.50.16
+[2017.09.01-04.50.16:144][393]LogWorld: Bringing up level for play took: 0.000614
+[2017.09.01-04.50.16:145][393]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.306
+[2017.09.01-04.50.41:949][439]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.50.43:378][598]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.50.43:389][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.50.43:389][598]PIE: New page: PIE session: Main (Aug 31, 2017, 2:50:43 PM)
+[2017.09.01-04.50.43:390][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.50.43:390][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000853s)
+[2017.09.01-04.50.43:391][598]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.50.43:391][598]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2017.09.01-04.50.43:391][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001553s)
+[2017.09.01-04.50.43:406][598]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.50.43:411][598]LogInit: FAudioDevice initialized.
+[2017.09.01-04.50.43:442][598]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.50.43:443][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.50.43
+[2017.09.01-04.50.43:444][598]LogWorld: Bringing up level for play took: 0.000765
+[2017.09.01-04.50.43:445][598]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.994
+[2017.09.01-04.53.19:061][916]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.025
+[2017.09.01-04.53.19:063][916]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_DanPlayer] ([1] browsable assets)...
+[2017.09.01-04.53.19:079][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_DanPlayer.BP_DanPlayer]
+[2017.09.01-04.53.19:079][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_DanPlayer]
+[2017.09.01-04.53.19:079][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DanPlayer" FILE="F:/Dropbox/Unreal Projects/danmaku/Saved/Autosaves/Game/Blueprints/BP_DanPlayer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.09.01-04.53.19:122][916]LogSavePackage: Save=38.16ms
+[2017.09.01-04.53.19:122][916]LogSavePackage: Moving 'F:/Dropbox/Unreal Projects/danmaku/Saved/BP_DanPlayer_Auto1BAED5D7F4CAF0C5AC194769EEF3BA2ED.tmp' to 'F:/Dropbox/Unreal Projects/danmaku/Saved/Autosaves/Game/Blueprints/BP_DanPlayer_Auto1.uasset'
+[2017.09.01-04.53.19:123][916]LogSavePackage:Display: Finished SavePackage F:/Dropbox/Unreal Projects/danmaku/Saved/Autosaves/Game/Blueprints/BP_DanPlayer_Auto1.uasset
+[2017.09.01-04.53.19:123][916]LogFileHelpers: Auto-saving content packages took 0.062
+[2017.09.01-04.56.25:296][997]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.56.33:395][938]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.56.33:407][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.56.33:407][938]PIE: New page: PIE session: Main (Aug 31, 2017, 2:56:33 PM)
+[2017.09.01-04.56.33:408][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.56.33:408][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000796s)
+[2017.09.01-04.56.33:409][938]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.56.33:409][938]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2017.09.01-04.56.33:409][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001533s)
+[2017.09.01-04.56.33:430][938]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.56.33:436][938]LogInit: FAudioDevice initialized.
+[2017.09.01-04.56.33:479][938]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.56.33:481][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.56.33
+[2017.09.01-04.56.33:481][938]LogWorld: Bringing up level for play took: 0.000746
+[2017.09.01-04.56.33:485][938]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.034
+[2017.09.01-04.57.14:369][723]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.57.14:382][723]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-04.57.14:382][723]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-04.57.14:467][723]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2017.09.01-04.57.14:467][723]PIE: New page: PIE session: Main (Aug 31, 2017, 2:57:14 PM)
+[2017.09.01-04.57.14:467][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.57.14:468][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000645s)
+[2017.09.01-04.57.14:468][723]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.57.14:468][723]LogPlayLevel: PIE: World Init took: (0.000442s)
+[2017.09.01-04.57.14:468][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001222s)
+[2017.09.01-04.57.14:483][723]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.57.14:488][723]LogInit: FAudioDevice initialized.
+[2017.09.01-04.57.14:528][723]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.57.14:529][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.57.14
+[2017.09.01-04.57.14:530][723]LogWorld: Bringing up level for play took: 0.000756
+[2017.09.01-04.57.14:534][723]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.084
+[2017.09.01-04.57.18:874][225]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.57.20:176][367]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.57.20:191][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.57.20:191][367]PIE: New page: PIE session: Main (Aug 31, 2017, 2:57:20 PM)
+[2017.09.01-04.57.20:191][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.57.20:192][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000853s)
+[2017.09.01-04.57.20:192][367]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.57.20:193][367]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2017.09.01-04.57.20:193][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001516s)
+[2017.09.01-04.57.20:212][367]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.57.20:217][367]LogInit: FAudioDevice initialized.
+[2017.09.01-04.57.20:281][367]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.57.20:282][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.57.20
+[2017.09.01-04.57.20:283][367]LogWorld: Bringing up level for play took: 0.000677
+[2017.09.01-04.57.20:287][367]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.164
+[2017.09.01-04.57.42:569][985]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.57.42:759][997]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.57.44:204][156]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.57.44:216][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.57.44:216][156]PIE: New page: PIE session: Main (Aug 31, 2017, 2:57:44 PM)
+[2017.09.01-04.57.44:216][156]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.57.44:217][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000862s)
+[2017.09.01-04.57.44:217][156]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.57.44:217][156]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2017.09.01-04.57.44:217][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001472s)
+[2017.09.01-04.57.44:233][156]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.57.44:238][156]LogInit: FAudioDevice initialized.
+[2017.09.01-04.57.44:276][156]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.57.44:278][156]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.57.44
+[2017.09.01-04.57.44:278][156]LogWorld: Bringing up level for play took: 0.000911
+[2017.09.01-04.57.44:280][156]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.17
+[2017.09.01-04.58.06:346][782]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-04.58.07:151][867]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.58.07:164][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.01-04.58.07:164][867]PIE: New page: PIE session: Main (Aug 31, 2017, 2:58:07 PM)
+[2017.09.01-04.58.07:164][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.58.07:164][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000657s)
+[2017.09.01-04.58.07:165][867]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.58.07:165][867]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2017.09.01-04.58.07:165][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001203s)
+[2017.09.01-04.58.07:180][867]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.58.07:185][867]LogInit: FAudioDevice initialized.
+[2017.09.01-04.58.07:226][867]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.58.07:228][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.58.07
+[2017.09.01-04.58.07:228][867]LogWorld: Bringing up level for play took: 0.000756
+[2017.09.01-04.58.07:232][867]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.782
+[2017.09.01-04.58.29:443][501]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.58.29:456][501]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-04.58.29:456][501]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-04.58.29:541][501]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2017.09.01-04.58.29:541][501]PIE: New page: PIE session: Main (Aug 31, 2017, 2:58:29 PM)
+[2017.09.01-04.58.29:541][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.58.29:542][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000643s)
+[2017.09.01-04.58.29:542][501]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.58.29:542][501]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2017.09.01-04.58.29:542][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001168s)
+[2017.09.01-04.58.29:557][501]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.58.29:562][501]LogInit: FAudioDevice initialized.
+[2017.09.01-04.58.29:606][501]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.58.29:607][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.58.29
+[2017.09.01-04.58.29:607][501]LogWorld: Bringing up level for play took: 0.000668
+[2017.09.01-04.58.29:611][501]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.839
+[2017.09.01-04.58.58:703][967]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.58.58:717][967]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-04.58.58:717][967]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-04.58.58:804][967]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2017.09.01-04.58.58:804][967]PIE: New page: PIE session: Main (Aug 31, 2017, 2:58:58 PM)
+[2017.09.01-04.58.58:804][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.58.58:805][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000640s)
+[2017.09.01-04.58.58:805][967]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.58.58:805][967]LogPlayLevel: PIE: World Init took: (0.000371s)
+[2017.09.01-04.58.58:806][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001143s)
+[2017.09.01-04.58.58:820][967]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.58.58:825][967]LogInit: FAudioDevice initialized.
+[2017.09.01-04.58.58:875][967]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.58.58:878][967]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.58.58
+[2017.09.01-04.58.58:878][967]LogWorld: Bringing up level for play took: 0.001279
+[2017.09.01-04.58.58:884][967]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.433
+[2017.09.01-04.59.31:696][865]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-04.59.31:709][865]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-04.59.31:709][865]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-04.59.31:791][865]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2017.09.01-04.59.31:791][865]PIE: New page: PIE session: Main (Aug 31, 2017, 2:59:31 PM)
+[2017.09.01-04.59.31:791][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-04.59.31:792][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000652s)
+[2017.09.01-04.59.31:792][865]LogAIModule: Creating AISystem for world Main
+[2017.09.01-04.59.31:792][865]LogPlayLevel: PIE: World Init took: (0.000407s)
+[2017.09.01-04.59.31:792][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001203s)
+[2017.09.01-04.59.31:807][865]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-04.59.31:812][865]LogInit: FAudioDevice initialized.
+[2017.09.01-04.59.31:861][865]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-04.59.31:863][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-21.59.31
+[2017.09.01-04.59.31:863][865]LogWorld: Bringing up level for play took: 0.001260
+[2017.09.01-04.59.31:868][865]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.582
+[2017.09.01-05.01.48:272][975]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-05.01.48:285][975]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-05.01.48:285][975]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-05.01.48:371][975]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2017.09.01-05.01.48:371][975]PIE: New page: PIE session: Main (Aug 31, 2017, 3:01:48 PM)
+[2017.09.01-05.01.48:371][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-05.01.48:372][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000685s)
+[2017.09.01-05.01.48:372][975]LogAIModule: Creating AISystem for world Main
+[2017.09.01-05.01.48:372][975]LogPlayLevel: PIE: World Init took: (0.000397s)
+[2017.09.01-05.01.48:372][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001223s)
+[2017.09.01-05.01.48:387][975]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-05.01.48:391][975]LogInit: FAudioDevice initialized.
+[2017.09.01-05.01.48:433][975]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-05.01.48:434][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-22.01.48
+[2017.09.01-05.01.48:434][975]LogWorld: Bringing up level for play took: 0.000730
+[2017.09.01-05.01.48:439][975]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.011
+[2017.09.01-05.02.18:076][495]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-05.02.18:088][495]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-05.02.18:088][495]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-05.02.18:170][495]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2017.09.01-05.02.18:170][495]PIE: New page: PIE session: Main (Aug 31, 2017, 3:02:18 PM)
+[2017.09.01-05.02.18:170][495]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-05.02.18:171][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000646s)
+[2017.09.01-05.02.18:171][495]LogAIModule: Creating AISystem for world Main
+[2017.09.01-05.02.18:171][495]LogPlayLevel: PIE: World Init took: (0.000393s)
+[2017.09.01-05.02.18:171][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001174s)
+[2017.09.01-05.02.18:185][495]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-05.02.18:190][495]LogInit: FAudioDevice initialized.
+[2017.09.01-05.02.18:235][495]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-05.02.18:237][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-22.02.18
+[2017.09.01-05.02.18:237][495]LogWorld: Bringing up level for play took: 0.000884
+[2017.09.01-05.02.18:241][495]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.21
+[2017.09.01-05.02.37:763][770]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-05.02.37:776][770]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-05.02.37:776][770]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-05.02.37:860][770]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2017.09.01-05.02.37:860][770]PIE: New page: PIE session: Main (Aug 31, 2017, 3:02:37 PM)
+[2017.09.01-05.02.37:860][770]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-05.02.37:861][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000665s)
+[2017.09.01-05.02.37:861][770]LogAIModule: Creating AISystem for world Main
+[2017.09.01-05.02.37:861][770]LogPlayLevel: PIE: World Init took: (0.000400s)
+[2017.09.01-05.02.37:861][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001207s)
+[2017.09.01-05.02.37:876][770]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-05.02.37:881][770]LogInit: FAudioDevice initialized.
+[2017.09.01-05.02.37:934][770]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-05.02.37:937][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-22.02.37
+[2017.09.01-05.02.37:937][770]LogWorld: Bringing up level for play took: 0.001295
+[2017.09.01-05.02.37:943][770]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.508
+[2017.09.01-05.03.29:972][742]BlueprintLog: New page: Compile BP_DanPlayer
+[2017.09.01-05.03.35:546][356]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-05.03.35:561][356]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-05.03.35:561][356]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-05.03.35:651][356]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2017.09.01-05.03.35:651][356]PIE: New page: PIE session: Main (Aug 31, 2017, 3:03:35 PM)
+[2017.09.01-05.03.35:651][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-05.03.35:652][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000669s)
+[2017.09.01-05.03.35:652][356]LogAIModule: Creating AISystem for world Main
+[2017.09.01-05.03.35:652][356]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2017.09.01-05.03.35:652][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001254s)
+[2017.09.01-05.03.35:670][356]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-05.03.35:675][356]LogInit: FAudioDevice initialized.
+[2017.09.01-05.03.35:743][356]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-05.03.35:750][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-22.03.35
+[2017.09.01-05.03.35:751][356]LogWorld: Bringing up level for play took: 0.003841
+[2017.09.01-05.03.35:766][356]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.684
+[2017.09.01-05.03.46:081][567]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.01-05.03.46:097][567]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.01-05.03.46:097][567]LogPlayLevel: [PlayLevel] Compiling BP_DanPlayer before play...
+[2017.09.01-05.03.46:187][567]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2017.09.01-05.03.46:187][567]PIE: New page: PIE session: Main (Aug 31, 2017, 3:03:46 PM)
+[2017.09.01-05.03.46:188][567]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2017.09.01-05.03.46:188][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000645s)
+[2017.09.01-05.03.46:188][567]LogAIModule: Creating AISystem for world Main
+[2017.09.01-05.03.46:189][567]LogPlayLevel: PIE: World Init took: (0.000373s)
+[2017.09.01-05.03.46:189][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001147s)
+[2017.09.01-05.03.46:203][567]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.01-05.03.46:208][567]LogInit: FAudioDevice initialized.
+[2017.09.01-05.03.46:261][567]LogLoad: Game class is 'BP_DanGameMode_C'
+[2017.09.01-05.03.46:263][567]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2017.08.31-22.03.46
+[2017.09.01-05.03.46:263][567]LogWorld: Bringing up level for play took: 0.001180
+[2017.09.01-05.03.46:270][567]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.18
+[2017.09.01-05.04.07:818][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DanPlayer" FILE="F:/Dropbox/Unreal Projects/danmaku/Content/Blueprints/BP_DanPlayer.uasset" SILENT=true
