@@ -3004,3 +3004,4 @@ Scale3D: 1.000000 1.000000 1.000000
 [2017.09.01-17.55.29:832][ 88]LogSavePackage:Display: Finished SavePackage F:/Dropbox/Unreal Projects/danmaku/Saved/Autosaves/Game/Blueprints/BP_ProjectPlayerParent_Auto1.uasset
 [2017.09.01-17.55.29:832][ 88]LogFileHelpers: Auto-saving content packages took 0.019
 [2017.09.01-17.58.36:279][928]BlueprintLog: New page: Compile BP_ProjectPlayerParent
+[2017.09.01-17.59.56:596][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ProjectPlayerParent" FILE="F:/Dropbox/Unreal Projects/danmaku/Content/Blueprints/BP_ProjectPlayerParent.uasset" SILENT=true
